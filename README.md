@@ -4,7 +4,7 @@
 [![Django](https://img.shields.io/badge/Django-4.0.2-green)](https://www.djangoproject.com/)
 [![Channels](https://img.shields.io/badge/Channels-3.0.4-red)](https://channels.readthedocs.io/)
 
-Вебинарный чат с поддержкой комнат и мгновенной доставкой сообщений через WebSockets.
+Веб-чат с поддержкой комнат и мгновенной доставкой сообщений через WebSockets.
 
 ## Содержание
 - [Особенности](#особенности)
