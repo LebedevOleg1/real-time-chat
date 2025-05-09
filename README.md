@@ -29,7 +29,7 @@
 # Клонируйте репозиторий
 git clone https://github.com/yourusername/django-chat.git
 cd django-chat
-
+```
 # Создайте и активируйте виртуальное окружение
 python -m venv venv
 source venv/bin/activate  # Linux/MacOS
