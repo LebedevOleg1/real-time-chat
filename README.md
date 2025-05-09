@@ -31,21 +31,31 @@ git clone https://github.com/yourusername/django-chat.git
 cd django-chat
 ```
 # Создайте и активируйте виртуальное окружение
+```bash
 python -m venv venv
 source venv/bin/activate  # Linux/MacOS
 # venv\Scripts\activate  # Windows
+```
 
 # Установите зависимости
+```bash
 pip install -r requirements.txt
+```
 
 # Примените миграции
+```bash
 python manage.py migrate
+```
 
 # Создайте администратора
+```bash
 python manage.py createsuperuser
+```
 
 # Запустите сервер
+```bash
 python manage.py runserver
+```
 
 
 ## Использование
